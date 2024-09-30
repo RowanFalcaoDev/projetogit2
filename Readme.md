@@ -7,5 +7,4 @@ Abrir o git bash na pasta do arquivo
 
 3 - comando 'git commit -m "primeiro commit" '.neste comando vc vai escrever o titulo do seu commit para "primeiro commit".
 
-4- 
-
+4- para mudar o nome da branch para main : comando 'git commit -M "main"
